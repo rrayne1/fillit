@@ -26,6 +26,7 @@ int	main(int ac, char **av)
 		return (0);
 	}
 	fd = open(av[1], O_RDONLY);
+	head->next = NULL; //!!
 	q = ft_gettrmn(ttrmn, head, fd);
 	free(ttrmn);
 	if (q == 0 || q > 26)

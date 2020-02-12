@@ -74,9 +74,9 @@ add_executable(fila
         libft/ft_toupper.c
         libft/get_next_line.c
         libft/libft.h
-        src/fillit1.c
-        src/fillit2.c
-        src/fillit3.c
-        src/fillit4.c
-        src/fillit5.c
+        src/check.c
+        src/lstpos.c
+        src/fullsq.c
+        src/clear.c
+        src/sq.c
         src/main.c)

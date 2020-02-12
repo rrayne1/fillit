@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-/Users/ljonas/fillit/includes/fillit.h
+C:/Users/dell/CLionProjects/fillit/includes/fillit.h
 ../libft/libft.h
-/Users/ljonas/fillit/libft/libft.h
+C:/Users/dell/CLionProjects/fillit/libft/libft.h
 sys/types.h
 -
 sys/stat.h
@@ -20,7 +20,7 @@ unistd.h
 stdio.h
 -
 
-/Users/ljonas/fillit/libft/libft.h
+C:/Users/dell/CLionProjects/fillit/libft/libft.h
 stdlib.h
 -
 string.h
@@ -30,7 +30,11 @@ unistd.h
 fcntl.h
 -
 
-/Users/ljonas/fillit/src/fillit1.c
+C:/Users/dell/CLionProjects/fillit/src/clear.c
 ../includes/fillit.h
-/Users/ljonas/fillit/includes/fillit.h
+C:/Users/dell/CLionProjects/fillit/includes/fillit.h
+
+C:/Users/dell/CLionProjects/fillit/src/fullsq.c
+../includes/fillit.h
+C:/Users/dell/CLionProjects/fillit/includes/fillit.h
 
